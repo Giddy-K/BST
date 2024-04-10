@@ -1,3 +1,9 @@
+/* 
+Author: Gideon Kipamet Kaiyian 
+Student RegNo: SCT221-0255/2023
+Author: Marylyne Nashipae Saoli 
+Student RegNo: SCT221-0207/2023
+*/
 #include<stdio.h>
 #include<stdlib.h>
 
